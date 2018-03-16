@@ -46,13 +46,18 @@ div.header img{
 div.About{
     display: inline-block;
     margin-right:40px;
-    color:black;
+    color:#f8f2ee;
 }
 div.Aboutme{
     border: 20px solid transparent;
     text-align: center;
     width:100%;
 
+}
+
+#Aboutlink{
+    border:10px solid transparent;
+    color:transparent;
 }
 
 div.image img{
@@ -122,6 +127,7 @@ div.jumbotron{
     border: 10px solid white;
     border-color: transparent;
     background-color:transparent;
+    margin-top: 70px;
 }
 #Infos img{
     width: 10%;
