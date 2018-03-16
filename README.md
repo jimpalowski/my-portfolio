@@ -9,7 +9,7 @@ _{ This is portfolio that i made includes some of the projects i have made along
 
 ## Github Pages
 
-_{https://jimpalowski.github.io/my_portfolio/index.html}_
+_{https://jimpalowski.github.io/my-portfolio/index.html}_
 
 ## License
 *Copyright (c) 2018 **_{Jim Palowski}_**
