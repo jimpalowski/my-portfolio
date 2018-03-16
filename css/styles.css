@@ -1,15 +1,24 @@
 body{
-    background-color: #5DADE2; 
+    background-image: url(https://hdwallsource.com/img/2014/5/hd-backgrounds-18454-18921-hd-wallpapers.jpg);
+
 }
+
 
 div.main{
     text-align: center;
-
+    margin-top: 50px;
 }
+
+div.header img{
+    width:20%;
+    float:right;
+}
+
 
 div.main img{
     width:20%;
     height: auto;
+    border-radius:100px;
 }
 
 ul {
@@ -17,7 +26,8 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #333;
+    background-color:#333333;
+    box-shadow: 5px 5px #7a7a7a;
 }
 
 li {
