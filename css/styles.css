@@ -138,3 +138,12 @@ div.jumbotron{
     margin-right:300px;
     margin-left: 100px;
 }
+
+#quote{
+    background-color: transparent;
+    color:#f8f2ee;
+}
+
+#footer{
+    color:#5F6A6A;
+}
